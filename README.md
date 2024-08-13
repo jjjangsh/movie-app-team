@@ -92,7 +92,3 @@
  ## 노션 링크
 
 https://teamsparta.notion.site/12-_1-2-95705fdb8db742d88f27f8117b7335b2
-
- ## 배포 링크
-
- http://movie-app-team12.s3-website.ap-northeast-2.amazonaws.com/
