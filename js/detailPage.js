@@ -296,8 +296,8 @@ darkmodeBtn.addEventListener('click', () => {
 
 const darkLightImageChange = (mode) => {
   if(mode === 'light-mode'){
-    darkmodeImage.src = '../images/moon.png';
+    darkmodeImage.src = 'https://jjjangsh.github.io/movie-app-team/images/moon.png';
   }else{
-    darkmodeImage.src = '../images/sun.png';
+    darkmodeImage.src = 'https://jjjangsh.github.io/movie-app-team/images/sun.png';
   }
 }
