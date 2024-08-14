@@ -92,3 +92,6 @@
  ## 노션 링크
 
 https://teamsparta.notion.site/12-_1-2-95705fdb8db742d88f27f8117b7335b2
+
+## 베포 링크
+https://jjjangsh.github.io/movie-app-team/
