@@ -205,10 +205,10 @@ darkmodeBtn.addEventListener('click', () => {
 
 const darkLightImageChange = (mode) => {
   if (mode === 'light-mode') {
-    darkmodeImage.src = '../images/moon.png';
-    searchImage.src = '../images/search_dark.svg';
+    darkmodeImage.src = 'https://jjjangsh.github.io/movie-app-team/images/moon.png';
+    searchImage.src = 'https://jjjangsh.github.io/movie-app-team/images/search_dark.svg';
   } else {
-    darkmodeImage.src = '../images/sun.png';
-    searchImage.src = '../images/search_white.svg';
+    darkmodeImage.src = 'https://jjjangsh.github.io/movie-app-team/images/sun.png';
+    searchImage.src = 'https://jjjangsh.github.io/movie-app-team/images/search_white.svg';
   }
 }
